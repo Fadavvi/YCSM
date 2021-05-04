@@ -1,2 +1,5 @@
 # YCSM
-You Can't See Me - a sample PHP code obfuscator with encoder
+## You Can't See Me
+a sample extention: PHP code obfuscator with encoder
+
+For compile the extention check ZenDesk documentation.
